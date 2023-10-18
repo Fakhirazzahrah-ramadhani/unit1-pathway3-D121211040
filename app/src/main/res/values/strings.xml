@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+
+    <string name="FullName">Fakhirazzahrah Ramadhani</string>
+    <string name="Title">Student</string>
+    <string name="Telp">+62 821 1492 2953</string>
+    <string name="Link">fzahrahrr</string>
+    <string name="Email">fzzahrahh@gmail.com</string>
+</resources>
